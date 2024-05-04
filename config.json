@@ -1,0 +1,28 @@
+{
+    "clientId": "858345055966461973",
+    "ip": "192.168.137.151",
+    "wait_time": 30,
+    "hibernate": false,
+    "hibernate_time": 60,
+    "presence_on_home": true,
+    "TMDB_KEY": "F5DE66D2680E255B2DF79E74F890EBF349262F618BCAE2A9ACCDEE5156CE8DF2CDF2D48C71173CDC2594465B87405D197CF1AED3B7E9671EEB56CA6753C2E6B0",
+    "titleIdDict": {
+        "PS4": [
+            "CUSA",
+            "CUSK",
+            "CUSB"
+        ]
+    },
+    "mapped": [
+        {
+            "titleid": "CUSA07875",
+            "name": "Uncharted™: The Lost Legacy",
+            "image": "http://gs2-sec.ww.prod.dl.playstation.net/gs2-sec/appkgo/prod/CUSA07875_00/3/i_0fadfc26002aa321878599a5ec645595bc33f0e192a3e5ae4238d54edd1757fe/i/icon0.png"
+        },
+        {
+            "titleid": "main_menu",
+            "name": "main_menu",
+            "image": "main_menu"
+        }
+    ]
+}
